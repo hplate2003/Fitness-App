@@ -1,9 +1,9 @@
 Driven by my passion for fitness, I embarked on creating a Fitness Tracker web application. This project was a personal endeavor to bring my vision to life and fulfill specific requirements. The following outlines the key features and goals I aim to achieve with this application.
 
-Vison/Concept:
+***Vison/Concept:***
 
 
-User Profile:
+***User Profile:***
 
 ~ Personal Info.(name, age, gender, weight, height)
 
@@ -12,7 +12,7 @@ User Profile:
 
 
 
-Workout Tracking:
+***Workout Tracking:***
 
 ~ Manual Entry of Workouts
         - Be able to view them in categories depending on what you hit for variety(categories: Back & Bi, Quads, Chest, etc.)
@@ -24,7 +24,7 @@ Workout Tracking:
 
 
 
-Progress Tracking:
+***Progress Tracking:***
 
 ~ Includes a folder where you can upload all Dexa Body Scans so they are compiled in one place and you can compare them over time
 
@@ -35,7 +35,7 @@ Progress Tracking:
 
 
 
-Nutrition Tracking:
+***Nutrition Tracking:***
 
 ~ Calorie Intake
 
