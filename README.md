@@ -1,4 +1,4 @@
-Driven by my passion for fitness, I embarked on creating a Fitness Tracker Web Application. This project was a personal endeavor to bring my vision to life and fulfill specific requirements. The following outlines the key features and goals I aim to achieve with this application.
+Driven by my passion for fitness, I embarked on creating a Fitness Tracker Web Application. This project was a personal endeavor to bring my vision to life and fulfill specific requirements. The following outlines the key features and goals I aim to achieve with this application. As of right now, it is still just a concept. I plan to start with the User Profile and have already created a draft of what I want it to look like and what materials I want to use to make it.
 
 ***Vison/Concept:***
 
